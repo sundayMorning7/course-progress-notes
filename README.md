@@ -1,0 +1,2 @@
+# Course progress notes
+Displays folder structure with duration of separate audio/video files of specific format('.mp4', '.avi', etc) and total folder duration in markdown format. Can be used to structure notes.
